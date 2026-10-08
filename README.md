@@ -9,5 +9,5 @@ Push the contents of this directory to the `balajiram.github.io` repository and 
 ## Included
 
 - Research, publications, experience, projects, education, and skills sections
-- Links to Google Scholar, LinkedIn, arXiv, email, and two CV versions
+- Links to Google Scholar, LinkedIn, arXiv, and email
 - Responsive layout with a small-screen navigation menu
