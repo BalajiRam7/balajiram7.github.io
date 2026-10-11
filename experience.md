@@ -2,7 +2,7 @@
 layout: default
 title: Experience · Balaji Ramachandran
 description: Experience, education, and coursework for Balaji Ramachandran.
-permalink: /experience/
+permalink: /education/
 ---
 
 

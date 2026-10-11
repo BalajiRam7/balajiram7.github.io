@@ -4,9 +4,9 @@ title: Balaji Ramachandran
 description: Balaji Ramachandran — PhD student in Mathematical Sciences at Carnegie Mellon University.
 ---
 
-## About
 
-I am a PhD student in Mathematics at Carnegie Mellon University. My research interests lie in using tools from probability, optimization, statistics and PDEs to develop principled methods for Generative AI, Reinforcement Learning and Scientific ML. I am particularly excited about learning reliable control policies and statistical efficient sampling from high dimensional distributions using learned generative models.
+
+Hi! I am a PhD student in Mathematics at Carnegie Mellon University. My research interests lie in using tools from probability, optimization, statistics and PDEs to develop principled methods for Generative AI, Reinforcement Learning and Scientific ML. I am particularly excited about learning reliable control policies and statistical efficient sampling from high dimensional distributions using learned generative models.
 
 ## Interests
 
