@@ -10,8 +10,8 @@ profile: false
   <article class="content blog-content">
     <header class="blog-header">
       <p class="blog-kicker">Writing</p>
-      <h1>:)</h1>
-      <p>...</p>
+      <h1></h1>
+      <p></p>
     </header>
 
     {% if site.posts.size > 0 %}
@@ -27,8 +27,8 @@ profile: false
       {% endfor %}
     {% else %}
       <div class="blog-empty">
-        <h2>...</h2>
-        <p>...</p>
+        <h2></h2>
+        <p></p>
       </div>
     {% endif %}
   </article>
