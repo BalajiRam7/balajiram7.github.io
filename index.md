@@ -6,11 +6,11 @@ description: Balaji Ramachandran — PhD student in Mathematical Sciences at Car
 
 
 
-Hi! I am a PhD student in Mathematics at Carnegie Mellon University. My research interests lie in using tools from probability, optimization, statistics and PDEs to develop principled methods for Generative AI, Reinforcement Learning and Scientific ML. I am particularly excited about learning reliable control policies and statistical efficient sampling from high dimensional distributions using learned generative models.
+Hi! I am a PhD student in Mathematics at Carnegie Mellon University. My research interests lie in using tools from probability, optimization, statistics and PDEs to develop principled methods for Generative AI, Reinforcement Learning and Scientific ML. I am particularly excited about learning reliable and safe control policies, statistical efficient sampling from high dimensional distributions using generative models and controllable generation through optimal control.
 
-## Interests
+## Research Interests
 
 - **Scientific machine learning:** Physics-informed neural networks, diffusion and flow-based models, and AI for scaling various scientific computing problems like forecasting and sampling.
-- **Reinforcement Learning and Stochastic Control**: Scalable decision making and sample efficient learning of policies in high dimensional environments, multi agent RL and stochastic games
-- **Generative AI and sampling:** Using tools from optimal transport and optimization to give statistical guarantees of sampling algorithms for high dimensional distributions
+- **Reinforcement Learning and Stochastic Control**: Scalable decision making and sample efficient learning of policies in high dimensional environments, multi agent RL and stochastic games. Lately I have been interested in enhancing continual learning capabilities in models through online test time adaptation methods
+- **Generative AI and sampling:** Using tools from optimal transport and optimization to give statistical guarantees of sampling algorithms for high dimensional distributions. 
 <!-- - **Quantitative research:** Dynamic allocation, risk management, stochastic calculus, and portfolio decisions under uncertainty. -->
